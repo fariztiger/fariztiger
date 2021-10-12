@@ -5,9 +5,7 @@ Yo! I'm Fariz tiger, a Mobiltech and Web Developer from the Malaysia. I'm curren
 <img align="right" alt="Developer GIF" src="https://github.com/boringdeveloper/boringdeveloper/blob/master/developer.gif?raw=true" width="500" height="auto" />
 
 ### 🔭 I’m currently working on
-some projects using Web3.  
-and also doing some clone of famous apps  
-[Grab Food UI Clone]
+some projects using Web3. Polybees Network Protocol, Defi project advisor
 
 ### 🌱 I’m currently learning
 how to develop using Angular and NodeJS
