@@ -169,8 +169,8 @@ philosophy: "Ship fast. Break things. Rebuild better."
 
 <div align="center">
 
-*“The chain never sleeps. Neither do I.”* ☠️
+*“The chain never sleeps. Neither do 
 
-
+<img width="1600" height="719" alt="image" src="https://github.com/user-attachments/assets/3d0e2af6-4991-4556-aa66-bac0f0d25550" />
 
 </div>
