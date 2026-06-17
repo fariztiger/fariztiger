@@ -171,6 +171,6 @@ philosophy: "Ship fast. Break things. Rebuild better."
 
 *“The chain never sleeps. Neither do I.”* ☠️
 
-![Snake animation](https://github.com/fariztiger/fariztiger/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 </div>
