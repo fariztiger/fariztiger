@@ -1,176 +1,109 @@
 <div align="center">
 
-```
-██████╗ ███████╗██╗   ██╗    ███╗   ███╗ ██████╗ ██████╗ ███████╗
-██╔══██╗██╔════╝██║   ██║    ████╗ ████║██╔═══██╗██╔══██╗██╔════╝
-██║  ██║█████╗  ██║   ██║    ██╔████╔██║██║   ██║██║  ██║█████╗  
-██║  ██║██╔══╝  ╚██╗ ██╔╝    ██║╚██╔╝██║██║   ██║██║  ██║██╔══╝  
-██████╔╝███████╗ ╚████╔╝     ██║ ╚═╝ ██║╚██████╔╝██████╔╝███████╗
-╚═════╝ ╚══════╝  ╚═══╝      ╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0e7490,75:7c3aed,100:0d1117&height=245&section=header&text=FARIZ%20TIGER&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=BUILD%20%7C%20TRADE%20%7C%20SHIP&descAlignY=60&descSize=18" alt="Fariz Tiger hero banner" width="100%" />
 
-# ☠️ Fariz Tiger
+### ⚡ Developer · Trading Systems Builder · Web3 Explorer
 
-### Blockchain Architect · Web3 Builder · Neuroscience x Tech
+**Malaysia 🇲🇾 &nbsp; | &nbsp; Code • Markets • Blockchain**
 
-*“Building at the intersection of code, chain, and cognition.”*
+<a href="https://github.com/fariztiger?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_REPOS-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
+<a href="https://github.com/fariztiger?tab=stars"><img src="https://img.shields.io/badge/STARRED_PROJECTS-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Starred projects"/></a>
+<a href="https://github.com/fariztiger/TigerFXAcademy"><img src="https://img.shields.io/badge/TIGERFX_ACADEMY-0e7490?style=for-the-badge&logo=tradingview&logoColor=white" alt="TigerFX Academy"/></a>
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
+<img src="https://komarev.com/ghpvc/?username=fariztiger&label=PROFILE%20VIEWS&color=7c3aed&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/fariztiger?label=FOLLOWERS&style=flat-square&color=0e7490" alt="GitHub followers"/>
 
 </div>
 
------
+---
 
-## ⚡ About Me
+## 🐯 The Builder Behind the Screen
 
 ```yaml
-name: Fariz Tiger
-location: Malaysia 🇲🇾
-role: Blockchain Architect & Full-Stack Developer
-company: Polybees Network
-focus:
-  - Solana Protocol Development
-  - Web3 DeFi Architecture  
-  - Smart Contract Engineering
-  - Neuroscience x Technology Research
-currently_building:
-  - SolBomb — Memecoin Launchpad on Solana
-  - NEXUM Protocol — Cross-chain Infrastructure
-  - CROISSANT Protocol — NFT Vault Mechanism
-philosophy: "Ship fast. Break things. Rebuild better."
+alias: Fariz Tiger
+based_in: Malaysia
+interests:
+  - XAUUSD / Forex automation
+  - MQL4, MQL5 and Python research
+  - Smart Money Concepts and quantitative backtesting
+  - Web3, blockchain and smart contracts
+  - Developer tools and practical automation
+mission: "Build useful things. Test assumptions. Keep improving."
 ```
 
------
+> I turn ideas into experiments — from market-analysis scripts and trading dashboards to blockchain tools. **Research first, verify with data, then build.**
 
-## 🛠️ Tech Arsenal
-
-### ⛓️ Blockchain & Web3
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor-FF6B35?style=for-the-badge&logo=anchor&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-
-### 💻 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### ⚙️ Backend & Infra
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
-
------
-
-## 🏆 Trophies
+## 🏆 GitHub Trophy Room
 
 <div align="center">
 
-|🥇               |🏅             |🎖️               |🏵️                 |⭐             |
-|:--------------:|:------------:|:--------------:|:----------------:|:------------:|
-|**346 Repos**   |**Pull Shark**|**Web3 Pioneer**|**DeFi Builder**  |**Solana Dev**|
-|Prolific builder|Merge master  |Early adopter   |Protocol architect|Rust & Anchor |
+<img src="https://github-profile-trophy.vercel.app/?username=fariztiger&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="Dynamic GitHub achievements (third-party service)" width="100%"/>
+
+<sub>Trophies reflect the external widget's available GitHub data; they are not manually claimed awards.</sub>
 
 </div>
 
+## ⚔️ Tech Arsenal
+
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fariztiger&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/fariztiger)
+**Trading & Research**
+
+<img src="https://img.shields.io/badge/MetaTrader_4-141b2d?style=for-the-badge&logo=metatrader5&logoColor=white" alt="MetaTrader 4"/>
+<img src="https://img.shields.io/badge/MetaTrader_5-141b2d?style=for-the-badge&logo=metatrader5&logoColor=white" alt="MetaTrader 5"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView"/>
+
+**Apps & Web**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,git,github,vscode,docker&theme=dark" alt="Web development tools and technologies"/>
+
+**Blockchain**
+
+<img src="https://img.shields.io/badge/Solana-10121b?style=for-the-badge&logo=solana&logoColor=9945FF" alt="Solana"/>
+<img src="https://img.shields.io/badge/Ethereum-10121b?style=for-the-badge&logo=ethereum&logoColor=8C8CF5" alt="Ethereum"/>
+<img src="https://img.shields.io/badge/Web3-10121b?style=for-the-badge&logo=web3dotjs&logoColor=F16822" alt="Web3"/>
+<img src="https://img.shields.io/badge/Smart_Contracts-10121b?style=for-the-badge&logo=solidity&logoColor=white" alt="Smart contracts"/>
 
 </div>
 
------
+## 🚀 Featured Repositories
 
-## 📊 GitHub Stats
+| Project | What it's about |
+|:--|:--|
+| [🤖 TradingAgents Codex Native](https://github.com/fariztiger/tradingagents-codex-native) | Multi-agent financial research workflow using Codex |
+| [🥇 XAUUSD Trading](https://github.com/fariztiger/xauusd-trading) | Gold market data and trading-analysis scripts |
+| [🧠 Smart Money Concepts](https://github.com/fariztiger/smart-money-concepts) | SMC indicators and market-structure research |
+| [📈 EA-Tester](https://github.com/fariztiger/EA-Tester) | Trading-system experimentation |
+| [⚙️ GridTrading](https://github.com/fariztiger/GridTrading) | Grid-trading code and ideas |
+| [🎓 TigerFX Academy](https://github.com/fariztiger/TigerFXAcademy) | Trading education project |
+
+## 📊 The GitHub Command Center
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fariztiger&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariztiger&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=fariztiger&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub contribution statistics" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariztiger&layout=compact&theme=tokyonight&hide_border=true" alt="Most used public repository languages" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=fariztiger&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="75%"/>
 
 </div>
 
-<div align="center">
+## 🧭 Current Focus
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fariztiger&theme=radical&hide_border=true)](https://git.io/streak-stats)
+- 🔬 **Research:** Liquidity, market structure, SMC, and realistic backtesting
+- 🛠️ **Build:** MT4/MT5 tools, Python analytics, dashboards, and automation
+- ⛓️ **Explore:** Blockchain infrastructure, dApps, and on-chain verification
+- 📚 **Learn in public:** Code, document, test, and iterate
 
-</div>
-
------
-
-## 🚀 Currently Building
-
-<table>
-<tr>
-<td width="50%">
-
-### 💣 SolBomb
-
-**Memecoin Launchpad on Solana**
-
-- Pump.fun style, built different
-- Bonding curve mechanism (x*y=k)
-- CROISSANT Protocol NFT system
-- Devnet live ✅
-
-</td>
-<td width="50%">
-
-### ⚡ NEXUM Protocol
-
-**Cross-chain Infrastructure**
-
-- TypeScript + Python + Rust SDKs
-- Published on npm & PyPI
-- Solana Devnet live ✅
-- Grant applications submitted
-
-</td>
-</tr>
-</table>
-
------
-
-## 🧠 Neuroscience x Tech
-
-> *Bridging cognitive science and blockchain architecture.*
-> Currently exploring how neuroscience principles apply to
-> protocol design, community behavior, and DeFi psychology.
-
------
-
-## 📫 Reach Me
+---
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tigerhyip@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/fariztiger)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/solbomb)
+### 🐅 “Make it work. Make it measurable. Make it better.”
 
-</div>
+<a href="https://github.com/fariztiger"><img src="https://img.shields.io/badge/GITHUB-FOLLOW_ME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
 
------
-
-<div align="center">
-
-*“The chain never sleeps. Neither do 
-
-<img width="1600" height="719" alt="image" src="https://github.com/user-attachments/assets/3d0e2af6-4991-4556-aa66-bac0f0d25550" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:0e7490&height=105&section=footer" alt="Footer wave" width="100%"/>
 
 </div>
